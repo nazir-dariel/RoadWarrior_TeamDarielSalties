@@ -29,3 +29,7 @@ As we discussed the stories, we also identified events that would be triggered w
 * Booking Cancelled 
 * Trip Completed 
 * Trip Shared 
+
+ ## Flows
+
+ ![Inbound Flow](diagrams/Inbound Flow.drawio.png)
