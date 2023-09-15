@@ -12,3 +12,7 @@ This section contains views of the high-level architecture of Road Warrior, as w
 ## Data Integration Subsystem Architecture
 
 ![Data Integration Subsystem Architecture](<diagrams/Kata Architecture - Data Integration Subsystem.drawio.png> "[Data Integration Subsystem Architecture")
+
+## Support Subsystem Architecture
+
+![Support Subsystem Architecture](<diagrams/Support Subsystem.drawio.png> "[Support Subsystem Architecture")
