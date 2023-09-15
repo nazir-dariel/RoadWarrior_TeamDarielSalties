@@ -25,7 +25,7 @@ This section contains views of the high-level architecture of Road Warrior, as w
 
 ![ Trip Management Subsystem Architecture](<diagrams/TripManagementSubsystem.drawio.png> " Trip Management  Subsystem Architecture")
 
-## Trip Management Subsystem Architecture
+## Reporting & Analytics Subsystem Architecture
 
 ![ Reporting & Analytics Subsystem ](<diagrams/reporting_and_analytics-reporting & analytics.drawio.png> "Reporting & Analytics Subsystem")
 
