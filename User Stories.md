@@ -5,11 +5,10 @@ As we discussed the stories, we also identified events that would be triggered w
  
  ## User Stories
 
- ## Events
  * As a **traveller** I want to **add an email address that I would like to have monitored** so that **the system can systematically update my trips based on email that I have received**.
-* As a **traveller** I want to **add a specific item to my itinerary in case it was not detected from an automatic source** so that **my trip information is accurate.
+* As a **traveller** I want to **add a specific item to my itinerary in case it was not detected from an automatic source** so that **my trip information is accurate**.
 * As a **traveller** I want to **share my trip information to a social media platform** so that **I keep my followers up to date with my trip**.
-* As a **traveller ,** I want the ability to see where my trip intersects with other colleagues** so that **I can meet up with fellow travellers.
+* As a **traveller ,** I want the ability to see where my trip intersects with other colleagues** so that **I can meet up with fellow travellers**.
 * As a **traveller** I want to **reach out to a travel agent** so that **I can get immediate help when I need it**.
 * As a **traveller** I want to **see a single view of my entire trip (destinations and transport) plans** so that **I can access all my information in one place**.
 * As a **traveller** I want the app to remind me regularly of my trip information** so that **I don't miss a flight or check-in**.
