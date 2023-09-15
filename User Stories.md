@@ -30,6 +30,10 @@ As we discussed the stories, we also identified events that would be triggered w
 * Trip Completed 
 * Trip Shared 
 
- ## Flows
+## Flows
 
- ![Inbound Flow](diagrams/Inbound Flow.drawio.png)
+### Inbound Flow
+ ![Inbound Flow](<diagrams/Inbound Flow.drawio.png> "Inbound Flow")
+
+### Dashboard Flow
+ ![Dashboard Flow](<diagrams/Dashboard Flow.drawio.png> "Dashboard Flow")
