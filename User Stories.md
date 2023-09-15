@@ -37,3 +37,6 @@ As we discussed the stories, we also identified events that would be triggered w
 
 ### Dashboard Flow
  ![Dashboard Flow](<diagrams/Dashboard Flow.drawio.png> "Dashboard Flow")
+
+### User Adds Trip Flow
+ ![User Adds Trip Flow](<diagrams/TravellerAddsTripManually.drawio.png> "User Adds Trip Flow")

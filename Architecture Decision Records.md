@@ -49,3 +49,31 @@ This section provides a record of the architectural decisions that we have made.
 **Decision:** We intend to create plugins for the most popular mail providers to simplify the process of email-based integration into Road Warrior. 
 
 **Consequences:** This streamlines the experience for the majority of users, but not all. For users using other email clients, there must be a generic email polling component. 
+
+## Decision 6: Off the shelf authentication and identity provider
+**Status:** Accepted
+
+**Context:** We need to have authorization and authentication
+
+**Decision:** We intend to use a Authentication-as-a-service (AaaS) provider for the authentication and authorization of Road Warrior
+
+ 
+**Consequences:**
+* Abstracts away nuances of authentication flows (traveller login, system authentication, password recovery etc)
+* Standards such as Oauth, OIDC and SAML are easily available, this reduces vendor lock-in
+* Extensible: because newer, features like WebAuthn are easiliy available (this can potentially increase vendor lock-in)
+* Quick way to implement user management dashboards
+* Access log can also be incorporated
+
+
+## Decision 7: The use of a Data Lake
+**Status:** Accepted
+
+**Context:** The system needs to collate data from different sources
+
+**Decision:** We make the assumption that alot of the data are event based and needs to be cleansed or transformed to make sense. The Data Lake approach accomodates this and can be geographically dispersed when leveraging cloud.
+
+**Consequences:**
+* The data lake will and can grow very large - however with different levels of storage we could reduce cost.
+* The system can generate different views of data.
+* The data can be mined for insights.
