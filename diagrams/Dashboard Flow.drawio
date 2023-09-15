@@ -1,0 +1,62 @@
+<mxfile host="Electron" modified="2023-09-15T17:14:04.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="ZvaOdzjh2fgr2xX6JBdo" version="21.6.8" type="device">
+  <diagram id="qHX-vIc6KNPXVEkH2NtB" name="Page-1">
+    <mxGraphModel dx="794" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CMVmKs_iM_Mgxj2ZyM_5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;fontSize=12;" parent="1" source="CMVmKs_iM_Mgxj2ZyM_5-2" target="CMVmKs_iM_Mgxj2ZyM_5-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMVmKs_iM_Mgxj2ZyM_5-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMVmKs_iM_Mgxj2ZyM_5-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;sketch=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CMVmKs_iM_Mgxj2ZyM_5-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#000000;container=1;sketch=1;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="1025" y="275" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CMVmKs_iM_Mgxj2ZyM_5-8" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="CMVmKs_iM_Mgxj2ZyM_5-6" target="CMVmKs_iM_Mgxj2ZyM_5-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMVmKs_iM_Mgxj2ZyM_5-6" value="User logs in to Road Warrior" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="200" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9tHhiv_P13Ggrh9oB1KF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CMVmKs_iM_Mgxj2ZyM_5-14" target="CMVmKs_iM_Mgxj2ZyM_5-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMVmKs_iM_Mgxj2ZyM_5-14" value="System loads active trips" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="370" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9tHhiv_P13Ggrh9oB1KF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CMVmKs_iM_Mgxj2ZyM_5-24" target="9tHhiv_P13Ggrh9oB1KF-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMVmKs_iM_Mgxj2ZyM_5-24" value="Dashboard display active trips and summary stats" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="530" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9tHhiv_P13Ggrh9oB1KF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9tHhiv_P13Ggrh9oB1KF-2" target="9tHhiv_P13Ggrh9oB1KF-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9tHhiv_P13Ggrh9oB1KF-2" value="User clicks on a specific trip" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="690" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9tHhiv_P13Ggrh9oB1KF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9tHhiv_P13Ggrh9oB1KF-4" target="CMVmKs_iM_Mgxj2ZyM_5-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9tHhiv_P13Ggrh9oB1KF-4" value="System displays trip itinerary and sorts reservations by date" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="850" y="255" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9tHhiv_P13Ggrh9oB1KF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.145;entryY=0.145;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="CMVmKs_iM_Mgxj2ZyM_5-4" target="CMVmKs_iM_Mgxj2ZyM_5-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9tHhiv_P13Ggrh9oB1KF-9" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;User Login + Dashboard View + Drill-down&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;This flow shows how a traveller can log in to Road Warrior, view their trips on a dashboard and drill-down into a particular trip to see their itinerary.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=default;fillColor=#CCFFFF;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="260" y="130" width="590" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
